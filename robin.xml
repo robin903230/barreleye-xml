@@ -5858,7 +5858,7 @@
 	</attribute>
 	<attribute>
 		<id>OPAL_MODEL</id>
-		<default>ingrasys,barreleye</default>
+		<default>ingrasys,robin</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_DIMM_ERROR_TEMP_DEG_C</id>
@@ -6026,7 +6026,7 @@
 	</attribute>
 	<attribute>
 		<id>SYSTEM_NAME</id>
-		<default>BARRELEYE</default>
+		<default>ROBIN</default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
